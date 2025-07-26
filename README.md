@@ -5,11 +5,8 @@
 Gün Projesi: Book Store
 100%
 Çalıştığın şirkette, deneyimli bir developer olarak anılacak kadar çalıştın. Şirkete alınan bir stajere de buddy oldun. İkinize bir Kitap alışveriş sitesi projesi verildi.
-
 Beraber neler yapılacağını planladınız. Proje gittikçe büyüyecek ve çok fazla özellik ekelenecek. O, useState ile bir yere kadar getirecek sen de contextAPIye dönüştüreceksin.
-
 Stajerin yaptığı halinde "Add to cart" çalışmasa da beklediğinden çok daha iyi şeyler yaptı. Geriye kalanların listesi aşağıda, kalanları sen yapacaksın, o da seni izleyip öğrenecek.
-
 
 Product Context oluştur ve kullan:
 [ ] src altında contexts klasörü ve içinde ProductContext.jsx dosyası oluştur.
@@ -35,3 +32,4 @@ Card Context oluştur ve kullan:
 [ ] Products.jsxde useContexti kullanarak CartContext nesnesini bu hooka ver. addItem bilgisini al.
 Cartbilgilerini localStorage'da sakla:
 [ ] cart bilgilerini localStorageda s11d1 anahtarı ile sakla. (src altında hook klasöründe içindeki useLocalStorage hook'unu kullanabilirsin.)
+
