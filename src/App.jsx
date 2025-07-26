@@ -1,12 +1,11 @@
 import React from 'react';
 import { Route } from 'react-router-dom';
 
-import ProductContextProvider from './contexts/ProductContext';
-import CartContextProvider from './contexts/CartContext';
-
 import Navigation from './components/Navigation';
 import Products from './components/Products';
 import ShoppingCart from './components/ShoppingCart';
+import ProductContextProvider from './contexts/ProductContext';
+import CartContextProvider from './contexts/CartContext';
 
 function App() {
   return (
